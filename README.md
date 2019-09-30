@@ -1,5 +1,7 @@
 # Master Chat with Nodejs, Socket.io and with bad words restriction feature
 
+### Project made with NodeJS
+
 <img src="https://github.com/eltonlazzarin/master-chat-app/blob/master/accesschat.png">
 
 <img src="https://github.com/eltonlazzarin/master-chat-app/blob/master/chatting.png">
